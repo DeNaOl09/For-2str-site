@@ -1,3 +1,9 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+<main>
 <h1>Основные виды зебр</h1>
 <ul>
     <li>Зебра Греви</li>
@@ -10,3 +16,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1t6WhUTsT4fUZq55Rd-fyZSpNoi-uWwrB" />
 <img src="https://drive.google.com/uc?export=view&id=1i8BRozwEYEJ2wl1lkno5uW2dNq-7Q5O4" />
 <img src="https://drive.google.com/uc?export=view&id=1u3fHClOAUB_i1gT-lv2GINBVsmEKMOev" />
+</main>
+</body>
+</html>
